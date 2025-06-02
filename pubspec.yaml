@@ -1,6 +1,6 @@
 name: muskan_package_1
 description: "A simple Dart package to add numbers"
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/muskangupta2004/addition_logic
 repository: https://github.com/muskangupta2004/addition_logic
 issue_tracker: https://github.com/muskangupta2004/addition_logic/issues
